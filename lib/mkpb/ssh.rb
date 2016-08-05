@@ -1,4 +1,5 @@
 require "mkpb/ssh/version"
+require "net/ssh"
 
 module MKPB
   module SSH
