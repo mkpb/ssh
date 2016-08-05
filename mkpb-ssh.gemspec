@@ -5,8 +5,8 @@ require 'mkpb/ssh/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "mkpb-ssh"
-  spec.version       = MKPB::Ssh::VERSION
-  spec.authors       = ["MKPB::Ssh"]
+  spec.version       = MKPB::SSH::VERSION
+  spec.authors       = ["MKPB::SSH"]
   spec.email         = ["michal.bogdan@gmail.com"]
 
   spec.summary       = %q{Write a short summary, because Rubygems requires one.}
